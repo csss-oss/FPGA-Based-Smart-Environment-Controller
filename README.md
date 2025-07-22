@@ -7,6 +7,7 @@ FPGA-Based Smart Environment Controller
 
 🎬 프로젝트 핵심 동작 (Demo)
 
+https://youtube.com/shorts/CgqHk4Kj1S8?feature=share
 
 
 
@@ -26,6 +27,7 @@ FPGA-Based Smart Environment Controller
 PC 모니터링: UART 통신으로 온도, 습도, 거리 값을 1초 주기로 PC에 전송 (ASCII 변환)
 
 직관적 디스플레이: FND와 LED로 현재 상태 및 주요 데이터를 시각적으로 표시
+
 
 
 
